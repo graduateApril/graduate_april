@@ -1,0 +1,14 @@
+20140505 06:45:14.888647Z  6177 INFO  pid = 6177 - april.cpp:32
+20140505 06:45:31.072236Z  6177 INFO  TcpServer::newConnection [AprilServer] - new connection [AprilServer:0.0.0.0:2007#1] from 127.0.0.1:45542 - TcpServer.cc:84
+20140505 06:45:31.072404Z  6177 INFO  AprilServer - 127.0.0.1:45542 -> 127.0.0.1:2007 is UP - april_server.cpp:29
+20140505 06:45:31.720466Z  6177 INFO  TcpServer::newConnection [AprilServer] - new connection [AprilServer:0.0.0.0:2007#2] from 127.0.0.1:45543 - TcpServer.cc:84
+20140505 06:45:31.720626Z  6177 INFO  AprilServer - 127.0.0.1:45543 -> 127.0.0.1:2007 is UP - april_server.cpp:29
+20140505 06:45:39.644198Z  6177 ERROR Invalid length 822938225 - april_codec.cpp:20
+20140505 06:45:39.644474Z  6177 INFO  AprilServer - 127.0.0.1:45542 -> 127.0.0.1:2007 is DOWN - april_server.cpp:29
+20140505 06:45:39.644494Z  6177 INFO  TcpServer::removeConnectionInLoop [AprilServer] - connection AprilServer:0.0.0.0:2007#1 - TcpServer.cc:113
+20140505 07:19:34.452865Z  6177 INFO  TcpServer::newConnection [AprilServer] - new connection [AprilServer:0.0.0.0:2007#3] from 127.0.0.1:45664 - TcpServer.cc:84
+20140505 07:19:34.452950Z  6177 INFO  AprilServer - 127.0.0.1:45664 -> 127.0.0.1:2007 is UP - april_server.cpp:29
+20140505 07:19:49.536455Z  6177 INFO  AprilServer - 127.0.0.1:45664 -> 127.0.0.1:2007 is DOWN - april_server.cpp:29
+20140505 07:19:49.536492Z  6177 INFO  TcpServer::removeConnectionInLoop [AprilServer] - connection AprilServer:0.0.0.0:2007#3 - TcpServer.cc:113
+20140505 07:20:52.581127Z  6177 INFO  TcpServer::newConnection [AprilServer] - new connection [AprilServer:0.0.0.0:2007#4] from 127.0.0.1:45667 - TcpServer.cc:84
+20140505 07:20:52.581182Z  6177 INFO  AprilServer - 127.0.0.1:45667 -> 127.0.0.1:2007 is UP - april_server.cpp:29

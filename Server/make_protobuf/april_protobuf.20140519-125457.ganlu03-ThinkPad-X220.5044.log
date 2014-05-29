@@ -1,0 +1,117 @@
+20140519 12:54:57.543150Z  5044 INFO  pid = 5044 - april.cpp:39
+20140519 12:55:34.564801Z  5044 INFO  TcpServer::newConnection [AprilServer] - new connection [AprilServer:0.0.0.0:2007#1] from 127.0.0.1:58543 - TcpServer.cc:84
+20140519 12:55:34.564884Z  5044 INFO  AprilServer - 127.0.0.1:58543 -> 127.0.0.1:2007 is UP - april_protobuf_server.cpp:56
+20140519 12:58:32.063724Z  5044 INFO  AprilServer - 127.0.0.1:58543 -> 127.0.0.1:2007 is DOWN - april_protobuf_server.cpp:56
+20140519 12:58:32.063768Z  5044 INFO  TcpServer::removeConnectionInLoop [AprilServer] - connection AprilServer:0.0.0.0:2007#1 - TcpServer.cc:113
+20140519 12:58:36.987058Z  5044 INFO  TcpServer::newConnection [AprilServer] - new connection [AprilServer:0.0.0.0:2007#2] from 127.0.0.1:58553 - TcpServer.cc:84
+20140519 12:58:36.987103Z  5044 INFO  AprilServer - 127.0.0.1:58553 -> 127.0.0.1:2007 is UP - april_protobuf_server.cpp:56
+20140519 12:58:52.039568Z  5044 INFO  AprilServer - 127.0.0.1:58553 -> 127.0.0.1:2007 is DOWN - april_protobuf_server.cpp:56
+20140519 12:58:52.039604Z  5044 INFO  TcpServer::removeConnectionInLoop [AprilServer] - connection AprilServer:0.0.0.0:2007#2 - TcpServer.cc:113
+20140519 12:58:54.743063Z  5044 INFO  TcpServer::newConnection [AprilServer] - new connection [AprilServer:0.0.0.0:2007#3] from 127.0.0.1:58556 - TcpServer.cc:84
+20140519 12:58:54.743163Z  5044 INFO  AprilServer - 127.0.0.1:58556 -> 127.0.0.1:2007 is UP - april_protobuf_server.cpp:56
+20140519 12:59:16.827254Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 12:59:16.827502Z  5044 INFO  receive - id 1 sync 0 - april_protobuf_server.cpp:90
+20140519 12:59:21.994366Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 12:59:21.994419Z  5044 INFO  receive - id 2 sync 0 - april_protobuf_server.cpp:90
+20140519 12:59:37.776275Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 12:59:37.776327Z  5044 INFO  receive - id 2 sync 0 - april_protobuf_server.cpp:90
+20140519 12:59:44.054697Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 12:59:44.054750Z  5044 INFO  receive - id 1 sync 0 - april_protobuf_server.cpp:90
+20140519 13:00:08.362879Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:00:08.362934Z  5044 INFO  receive - id 1 sync 0 - april_protobuf_server.cpp:90
+20140519 13:00:16.526076Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:00:16.526130Z  5044 INFO  receive - id 2 sync 1 - april_protobuf_server.cpp:90
+20140519 13:00:23.644249Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:00:23.644304Z  5044 INFO  receive - id 2 sync 0 - april_protobuf_server.cpp:90
+20140519 13:03:38.909056Z  5044 INFO  AprilServer - 127.0.0.1:58556 -> 127.0.0.1:2007 is DOWN - april_protobuf_server.cpp:56
+20140519 13:03:38.909090Z  5044 INFO  TcpServer::removeConnectionInLoop [AprilServer] - connection AprilServer:0.0.0.0:2007#3 - TcpServer.cc:113
+20140519 13:03:55.731036Z  5044 INFO  TcpServer::newConnection [AprilServer] - new connection [AprilServer:0.0.0.0:2007#4] from 127.0.0.1:58570 - TcpServer.cc:84
+20140519 13:03:55.731174Z  5044 INFO  AprilServer - 127.0.0.1:58570 -> 127.0.0.1:2007 is UP - april_protobuf_server.cpp:56
+20140519 13:03:59.205872Z  5044 INFO  AprilServer - 127.0.0.1:58570 -> 127.0.0.1:2007 is DOWN - april_protobuf_server.cpp:56
+20140519 13:03:59.205911Z  5044 INFO  TcpServer::removeConnectionInLoop [AprilServer] - connection AprilServer:0.0.0.0:2007#4 - TcpServer.cc:113
+20140519 13:04:00.815314Z  5044 INFO  TcpServer::newConnection [AprilServer] - new connection [AprilServer:0.0.0.0:2007#5] from 127.0.0.1:58572 - TcpServer.cc:84
+20140519 13:04:00.815442Z  5044 INFO  AprilServer - 127.0.0.1:58572 -> 127.0.0.1:2007 is UP - april_protobuf_server.cpp:56
+20140519 13:04:17.378693Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:04:17.378751Z  5044 INFO  receive - id 1 sync 0 - april_protobuf_server.cpp:90
+20140519 13:04:26.169230Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:04:26.169274Z  5044 INFO  receive - id 1 sync 0 - april_protobuf_server.cpp:90
+20140519 13:04:37.511303Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:04:37.511350Z  5044 INFO  receive - id 1 sync 0 - april_protobuf_server.cpp:90
+20140519 13:04:46.477895Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:04:46.477942Z  5044 INFO  receive - id 1 sync 0 - april_protobuf_server.cpp:90
+20140519 13:05:04.090889Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:05:04.090950Z  5044 INFO  receive - id 1 sync 1 - april_protobuf_server.cpp:90
+20140519 13:05:17.811721Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:05:17.811775Z  5044 INFO  receive - id 1 sync 0 - april_protobuf_server.cpp:90
+20140519 13:05:22.329848Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:05:22.329902Z  5044 INFO  receive - id 1 sync 1 - april_protobuf_server.cpp:90
+20140519 13:05:26.279303Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:05:26.279357Z  5044 INFO  receive - id 2 sync 0 - april_protobuf_server.cpp:90
+20140519 13:05:31.438639Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:05:31.438692Z  5044 INFO  receive - id 2 sync 1 - april_protobuf_server.cpp:90
+20140519 13:05:38.593066Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:05:38.593119Z  5044 INFO  receive - id 2 sync 0 - april_protobuf_server.cpp:90
+20140519 13:05:43.180427Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:05:43.180491Z  5044 INFO  receive - id 2 sync 1 - april_protobuf_server.cpp:90
+20140519 13:06:00.320595Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:06:00.320649Z  5044 INFO  receive - id 2 sync 0 - april_protobuf_server.cpp:90
+20140519 13:06:11.996911Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:06:11.996965Z  5044 INFO  receive - id 2 sync 1 - april_protobuf_server.cpp:90
+20140519 13:06:28.615964Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:06:28.616017Z  5044 INFO  receive - id 2 sync 0 - april_protobuf_server.cpp:90
+20140519 13:06:39.420179Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:06:39.420233Z  5044 INFO  receive - id 2 sync 0 - april_protobuf_server.cpp:90
+20140519 13:06:43.863570Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:06:43.863624Z  5044 INFO  receive - id 2 sync 1 - april_protobuf_server.cpp:90
+20140519 13:06:49.978658Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:06:49.978712Z  5044 INFO  receive - id 2 sync 0 - april_protobuf_server.cpp:90
+20140519 13:07:07.259812Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:07:07.259873Z  5044 INFO  receive - id 1 sync 0 - april_protobuf_server.cpp:90
+20140519 13:07:13.974532Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:07:13.974587Z  5044 INFO  receive - id 1 sync 1 - april_protobuf_server.cpp:90
+20140519 13:11:24.453735Z  5044 INFO  AprilServer - 127.0.0.1:58572 -> 127.0.0.1:2007 is DOWN - april_protobuf_server.cpp:56
+20140519 13:11:24.453781Z  5044 INFO  TcpServer::removeConnectionInLoop [AprilServer] - connection AprilServer:0.0.0.0:2007#5 - TcpServer.cc:113
+20140519 13:11:35.919093Z  5044 INFO  TcpServer::newConnection [AprilServer] - new connection [AprilServer:0.0.0.0:2007#6] from 127.0.0.1:58603 - TcpServer.cc:84
+20140519 13:11:35.919141Z  5044 INFO  AprilServer - 127.0.0.1:58603 -> 127.0.0.1:2007 is UP - april_protobuf_server.cpp:56
+20140519 13:11:55.270470Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:11:55.270525Z  5044 INFO  receive - id 1 sync 0 - april_protobuf_server.cpp:90
+20140519 13:12:11.023909Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:12:11.023963Z  5044 INFO  receive - id 1 sync 1 - april_protobuf_server.cpp:90
+20140519 13:12:19.398566Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:12:19.398620Z  5044 INFO  receive - id 2 sync 0 - april_protobuf_server.cpp:90
+20140519 13:12:32.130651Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:12:32.130705Z  5044 INFO  receive - id 2 sync 0 - april_protobuf_server.cpp:90
+20140519 13:12:34.806465Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:12:34.806520Z  5044 INFO  receive - id 2 sync 0 - april_protobuf_server.cpp:90
+20140519 13:12:40.201277Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:12:40.201338Z  5044 INFO  receive - id 2 sync 1 - april_protobuf_server.cpp:90
+20140519 13:12:46.148499Z  5044 INFO  AprilServer - 127.0.0.1:58603 -> 127.0.0.1:2007 is DOWN - april_protobuf_server.cpp:56
+20140519 13:12:46.148545Z  5044 INFO  TcpServer::removeConnectionInLoop [AprilServer] - connection AprilServer:0.0.0.0:2007#6 - TcpServer.cc:113
+20140519 13:13:47.736505Z  5044 INFO  TcpServer::newConnection [AprilServer] - new connection [AprilServer:0.0.0.0:2007#7] from 127.0.0.1:58610 - TcpServer.cc:84
+20140519 13:13:47.736635Z  5044 INFO  AprilServer - 127.0.0.1:58610 -> 127.0.0.1:2007 is UP - april_protobuf_server.cpp:56
+20140519 13:14:06.801146Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:14:06.801201Z  5044 INFO  receive - id 1 sync 0 - april_protobuf_server.cpp:90
+20140519 13:14:10.164741Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:14:10.164794Z  5044 INFO  receive - id 1 sync 0 - april_protobuf_server.cpp:90
+20140519 13:14:14.856560Z  5044 INFO  AprilServer - 127.0.0.1:58610 -> 127.0.0.1:2007 is DOWN - april_protobuf_server.cpp:56
+20140519 13:14:14.856598Z  5044 INFO  TcpServer::removeConnectionInLoop [AprilServer] - connection AprilServer:0.0.0.0:2007#7 - TcpServer.cc:113
+20140519 13:14:51.490755Z  5044 INFO  TcpServer::newConnection [AprilServer] - new connection [AprilServer:0.0.0.0:2007#8] from 127.0.0.1:58622 - TcpServer.cc:84
+20140519 13:14:51.490806Z  5044 INFO  AprilServer - 127.0.0.1:58622 -> 127.0.0.1:2007 is UP - april_protobuf_server.cpp:56
+20140519 13:15:14.748115Z  5044 INFO  AprilServer - 127.0.0.1:58622 -> 127.0.0.1:2007 is DOWN - april_protobuf_server.cpp:56
+20140519 13:15:14.748154Z  5044 INFO  TcpServer::removeConnectionInLoop [AprilServer] - connection AprilServer:0.0.0.0:2007#8 - TcpServer.cc:113
+20140519 13:15:17.364488Z  5044 INFO  TcpServer::newConnection [AprilServer] - new connection [AprilServer:0.0.0.0:2007#9] from 127.0.0.1:58629 - TcpServer.cc:84
+20140519 13:15:17.364536Z  5044 INFO  AprilServer - 127.0.0.1:58629 -> 127.0.0.1:2007 is UP - april_protobuf_server.cpp:56
+20140519 13:15:52.210955Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:15:52.211016Z  5044 INFO  receive - id 1 sync 0 - april_protobuf_server.cpp:90
+20140519 13:15:55.282578Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:15:55.282631Z  5044 INFO  receive - id 1 sync 0 - april_protobuf_server.cpp:90
+20140519 13:15:57.303594Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:15:57.303649Z  5044 INFO  receive - id 1 sync 0 - april_protobuf_server.cpp:90
+20140519 13:16:07.883551Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:16:07.883603Z  5044 INFO  receive - id 2 sync 0 - april_protobuf_server.cpp:90
+20140519 13:16:08.765871Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:16:08.765928Z  5044 INFO  receive - id 2 sync 0 - april_protobuf_server.cpp:90
+20140519 13:16:09.597624Z  5044 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:16:09.597683Z  5044 INFO  receive - id 2 sync 0 - april_protobuf_server.cpp:90
+20140519 13:16:24.575136Z  5044 INFO  AprilServer - 127.0.0.1:58629 -> 127.0.0.1:2007 is DOWN - april_protobuf_server.cpp:56
+20140519 13:16:24.575184Z  5044 INFO  TcpServer::removeConnectionInLoop [AprilServer] - connection AprilServer:0.0.0.0:2007#9 - TcpServer.cc:113

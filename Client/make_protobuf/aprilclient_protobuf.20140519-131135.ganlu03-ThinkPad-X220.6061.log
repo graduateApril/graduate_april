@@ -1,0 +1,33 @@
+20140519 13:11:35.915668Z  6061 INFO  pid = 6061 - april.cpp:52
+20140519 13:11:35.918649Z  6061 INFO  TcpClient::TcpClient[AprilClient] - connector 0x173E950 - TcpClient.cc:71
+20140519 13:11:35.918694Z  6061 INFO  TcpClient::connect[AprilClient] - connecting to 0.0.0.0:2007 - TcpClient.cc:102
+20140519 13:11:35.919033Z  6061 INFO  TcpClient::TcpClient[AprilClient] - connector 0x173D4C0 - TcpClient.cc:71
+20140519 13:11:35.919041Z  6061 INFO  TcpClient::connect[AprilClient] - connecting to 0.0.0.0:2008 - TcpClient.cc:102
+20140519 13:11:35.919137Z  6063 INFO  127.0.0.1:58603 -> 127.0.0.1:2007 is  UP  - april_protobuf_client.cpp:54
+20140519 13:11:35.919187Z  6064 INFO  127.0.0.1:35232 -> 127.0.0.1:2008 is  UP  - april_protobuf_client.cpp:54
+20140519 13:11:51.009294Z  6061 INFO  client 1 - april.cpp:83
+20140519 13:11:51.009683Z  6064 INFO  receive - id 819 sync 1 - april_protobuf_client.cpp:90
+20140519 13:11:55.270305Z  6061 INFO  client 0 - april.cpp:83
+20140519 13:11:55.270665Z  6063 INFO  receive - id 819 sync 1 - april_protobuf_client.cpp:90
+20140519 13:12:08.122263Z  6061 INFO  client 1 - april.cpp:83
+20140519 13:12:08.122637Z  6064 INFO  receive - id 8019 sync 0 - april_protobuf_client.cpp:90
+20140519 13:12:11.023741Z  6061 INFO  client 0 - april.cpp:83
+20140519 13:12:11.024096Z  6063 INFO  receive - id 8019 sync 0 - april_protobuf_client.cpp:90
+20140519 13:12:17.142583Z  6061 INFO  client 1 - april.cpp:83
+20140519 13:12:17.143001Z  6064 INFO  receive - id 9 sync 0 - april_protobuf_client.cpp:90
+20140519 13:12:19.398383Z  6061 INFO  client 0 - april.cpp:83
+20140519 13:12:19.398748Z  6063 INFO  receive - id 9 sync 0 - april_protobuf_client.cpp:90
+20140519 13:12:30.732477Z  6061 INFO  client 1 - april.cpp:83
+20140519 13:12:30.732816Z  6064 INFO  receive - id 8019 sync 0 - april_protobuf_client.cpp:90
+20140519 13:12:32.130448Z  6061 INFO  client 0 - april.cpp:83
+20140519 13:12:32.130845Z  6063 INFO  receive - id 9 sync 0 - april_protobuf_client.cpp:90
+20140519 13:12:33.624016Z  6061 INFO  client 1 - april.cpp:83
+20140519 13:12:33.624360Z  6064 INFO  receive - id 8019 sync 1 - april_protobuf_client.cpp:90
+20140519 13:12:34.806299Z  6061 INFO  client 0 - april.cpp:83
+20140519 13:12:34.806657Z  6063 INFO  receive - id 9 sync 1 - april_protobuf_client.cpp:90
+20140519 13:12:37.315336Z  6061 INFO  client 1 - april.cpp:83
+20140519 13:12:37.315683Z  6064 INFO  receive - id 8019 sync 0 - april_protobuf_client.cpp:90
+20140519 13:12:40.201111Z  6061 INFO  client 0 - april.cpp:83
+20140519 13:12:40.201529Z  6063 INFO  receive - id 9 sync 0 - april_protobuf_client.cpp:90
+20140519 13:12:42.222766Z  6061 INFO  client 1 - april.cpp:83
+20140519 13:12:42.223108Z  6064 INFO  receive - id 9 sync 0 - april_protobuf_client.cpp:90

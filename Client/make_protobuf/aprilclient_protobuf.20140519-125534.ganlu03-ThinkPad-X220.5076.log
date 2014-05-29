@@ -1,0 +1,7 @@
+20140519 12:55:34.564267Z  5076 INFO  pid = 5076 - april.cpp:54
+20140519 12:55:34.564522Z  5076 INFO  TcpClient::TcpClient[AprilClient] - connector 0x2421950 - TcpClient.cc:71
+20140519 12:55:34.564566Z  5076 INFO  TcpClient::connect[AprilClient] - connecting to 0.0.0.0:2007 - TcpClient.cc:102
+20140519 12:55:34.564750Z  5076 INFO  TcpClient::TcpClient[AprilClient] - connector 0x24204C0 - TcpClient.cc:71
+20140519 12:55:34.564759Z  5076 INFO  TcpClient::connect[AprilClient] - connecting to 0.0.0.0:2008 - TcpClient.cc:102
+20140519 12:55:34.564810Z  5078 INFO  127.0.0.1:58543 -> 127.0.0.1:2007 is  UP  - april_protobuf_client.cpp:54
+20140519 12:55:34.564973Z  5079 INFO  127.0.0.1:35172 -> 127.0.0.1:2008 is  UP  - april_protobuf_client.cpp:54

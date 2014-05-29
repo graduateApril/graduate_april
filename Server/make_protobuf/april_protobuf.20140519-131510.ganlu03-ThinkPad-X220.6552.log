@@ -1,0 +1,15 @@
+20140519 13:15:10.374924Z  6552 INFO  pid = 6552 - april.cpp:39
+20140519 13:15:17.364638Z  6552 INFO  TcpServer::newConnection [AprilServer] - new connection [AprilServer:0.0.0.0:2008#1] from 127.0.0.1:35258 - TcpServer.cc:84
+20140519 13:15:17.364683Z  6552 INFO  AprilServer - 127.0.0.1:35258 -> 127.0.0.1:2008 is UP - april_protobuf_server.cpp:56
+20140519 13:15:19.493773Z  6552 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:15:19.494045Z  6552 INFO  receive - id 1 sync 0 - april_protobuf_server.cpp:90
+20140519 13:15:54.434938Z  6552 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:15:54.434989Z  6552 INFO  receive - id 1 sync 0 - april_protobuf_server.cpp:90
+20140519 13:15:56.207831Z  6552 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:15:56.207882Z  6552 INFO  receive - id 1 sync 0 - april_protobuf_server.cpp:90
+20140519 13:16:02.099958Z  6552 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:16:02.100018Z  6552 INFO  receive - id 1 sync 0 - april_protobuf_server.cpp:90
+20140519 13:16:08.349972Z  6552 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:16:08.350034Z  6552 INFO  receive - id 2 sync 0 - april_protobuf_server.cpp:90
+20140519 13:16:09.190722Z  6552 INFO  pursuit april.response nameLen 15 - april_protobuf_codec.cpp:71
+20140519 13:16:09.190777Z  6552 INFO  receive - id 2 sync 0 - april_protobuf_server.cpp:90

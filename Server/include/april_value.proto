@@ -1,0 +1,4 @@
+package april;
+message value {
+    required int32 value = 1;
+}

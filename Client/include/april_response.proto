@@ -1,0 +1,5 @@
+package april;
+message response {
+    required int32 id = 1;
+    required bool sync = 2;
+}

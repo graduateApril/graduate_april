@@ -1,0 +1,45 @@
+20140519 13:15:17.363632Z  6561 INFO  pid = 6561 - april.cpp:52
+20140519 13:15:17.364064Z  6561 INFO  TcpClient::TcpClient[AprilClient] - connector 0x19B0950 - TcpClient.cc:71
+20140519 13:15:17.364114Z  6561 INFO  TcpClient::connect[AprilClient] - connecting to 0.0.0.0:2007 - TcpClient.cc:102
+20140519 13:15:17.364515Z  6563 INFO  127.0.0.1:58629 -> 127.0.0.1:2007 is  UP  - april_protobuf_client.cpp:54
+20140519 13:15:17.364532Z  6561 INFO  TcpClient::TcpClient[AprilClient] - connector 0x19AF4C0 - TcpClient.cc:71
+20140519 13:15:17.364540Z  6561 INFO  TcpClient::connect[AprilClient] - connecting to 0.0.0.0:2008 - TcpClient.cc:102
+20140519 13:15:17.364644Z  6564 INFO  127.0.0.1:35258 -> 127.0.0.1:2008 is  UP  - april_protobuf_client.cpp:54
+20140519 13:15:19.493566Z  6561 INFO  client 1 - april.cpp:83
+20140519 13:15:19.494319Z  6564 INFO  receive - id 8019 sync 0 - april_protobuf_client.cpp:90
+20140519 13:15:52.210802Z  6561 INFO  client 0 - april.cpp:83
+20140519 13:15:52.211220Z  6563 INFO  receive - id 8019 sync 0 - april_protobuf_client.cpp:90
+20140519 13:15:54.434771Z  6561 INFO  client 1 - april.cpp:83
+20140519 13:15:54.435120Z  6564 INFO  receive - id 8019 sync 0 - april_protobuf_client.cpp:90
+20140519 13:15:55.282374Z  6561 INFO  client 0 - april.cpp:83
+20140519 13:15:55.282774Z  6563 INFO  receive - id 8019 sync 0 - april_protobuf_client.cpp:90
+20140519 13:15:56.207673Z  6561 INFO  client 1 - april.cpp:83
+20140519 13:15:56.208009Z  6564 INFO  receive - id 8019 sync 0 - april_protobuf_client.cpp:90
+20140519 13:15:57.303388Z  6561 INFO  client 0 - april.cpp:83
+20140519 13:15:57.303782Z  6563 INFO  receive - id 8019 sync 0 - april_protobuf_client.cpp:90
+20140519 13:16:02.099803Z  6561 INFO  client 1 - april.cpp:83
+20140519 13:16:02.100150Z  6564 INFO  receive - id 8019 sync 0 - april_protobuf_client.cpp:90
+20140519 13:16:07.883389Z  6561 INFO  client 0 - april.cpp:83
+20140519 13:16:07.883741Z  6563 INFO  receive - id 9 sync 0 - april_protobuf_client.cpp:90
+20140519 13:16:08.349812Z  6561 INFO  client 1 - april.cpp:83
+20140519 13:16:08.350250Z  6564 INFO  receive - id 9 sync 0 - april_protobuf_client.cpp:90
+20140519 13:16:08.765633Z  6561 INFO  client 0 - april.cpp:83
+20140519 13:16:08.766066Z  6563 INFO  receive - id 9 sync 0 - april_protobuf_client.cpp:90
+20140519 13:16:09.190525Z  6561 INFO  client 1 - april.cpp:83
+20140519 13:16:09.190916Z  6564 INFO  receive - id 9 sync 0 - april_protobuf_client.cpp:90
+20140519 13:16:09.597433Z  6561 INFO  client 0 - april.cpp:83
+20140519 13:16:09.597871Z  6563 INFO  receive - id 9 sync 0 - april_protobuf_client.cpp:90
+20140519 13:16:18.344407Z  6564 INFO  127.0.0.1:35258 -> 127.0.0.1:2008 is  DOWN  - april_protobuf_client.cpp:54
+20140519 13:16:18.344457Z  6564 INFO  TcpClient::connect[AprilClient] - Reconnecting to 0.0.0.0:2008 - TcpClient.cc:171
+20140519 13:16:18.344700Z  6564 WARN  Channel::handle_event() POLLHUP - Channel.cc:83
+20140519 13:16:18.344711Z  6564 ERROR Connector::handleError state=1 - Connector.cc:201
+20140519 13:16:18.344747Z  6564 INFO  Connector::retry - Retry connecting to 0.0.0.0:2008 in 500 milliseconds.  - Connector.cc:217
+20140519 13:16:18.844990Z  6564 WARN  Channel::handle_event() POLLHUP - Channel.cc:83
+20140519 13:16:18.845012Z  6564 ERROR Connector::handleError state=1 - Connector.cc:201
+20140519 13:16:18.845083Z  6564 INFO  Connector::retry - Retry connecting to 0.0.0.0:2008 in 1000 milliseconds.  - Connector.cc:217
+20140519 13:16:19.845411Z  6564 WARN  Channel::handle_event() POLLHUP - Channel.cc:83
+20140519 13:16:19.845445Z  6564 ERROR Connector::handleError state=1 - Connector.cc:201
+20140519 13:16:19.845528Z  6564 INFO  Connector::retry - Retry connecting to 0.0.0.0:2008 in 2000 milliseconds.  - Connector.cc:217
+20140519 13:16:21.845858Z  6564 WARN  Channel::handle_event() POLLHUP - Channel.cc:83
+20140519 13:16:21.845892Z  6564 ERROR Connector::handleError state=1 - Connector.cc:201
+20140519 13:16:21.845976Z  6564 INFO  Connector::retry - Retry connecting to 0.0.0.0:2008 in 4000 milliseconds.  - Connector.cc:217

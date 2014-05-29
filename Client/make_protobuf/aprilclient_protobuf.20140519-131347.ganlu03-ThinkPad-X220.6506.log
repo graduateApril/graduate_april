@@ -1,0 +1,15 @@
+20140519 13:13:47.735621Z  6506 INFO  pid = 6506 - april.cpp:52
+20140519 13:13:47.736158Z  6506 INFO  TcpClient::TcpClient[AprilClient] - connector 0x6EE950 - TcpClient.cc:71
+20140519 13:13:47.736209Z  6506 INFO  TcpClient::connect[AprilClient] - connecting to 0.0.0.0:2007 - TcpClient.cc:102
+20140519 13:13:47.736528Z  6506 INFO  TcpClient::TcpClient[AprilClient] - connector 0x6ED4C0 - TcpClient.cc:71
+20140519 13:13:47.736558Z  6506 INFO  TcpClient::connect[AprilClient] - connecting to 0.0.0.0:2008 - TcpClient.cc:102
+20140519 13:13:47.736747Z  6508 INFO  127.0.0.1:58610 -> 127.0.0.1:2007 is  UP  - april_protobuf_client.cpp:54
+20140519 13:13:47.737006Z  6509 INFO  127.0.0.1:35239 -> 127.0.0.1:2008 is  UP  - april_protobuf_client.cpp:54
+20140519 13:14:05.139430Z  6506 INFO  client 1 - april.cpp:83
+20140519 13:14:05.139937Z  6509 INFO  receive - id 8019 sync 0 - april_protobuf_client.cpp:90
+20140519 13:14:06.800987Z  6506 INFO  client 0 - april.cpp:83
+20140519 13:14:06.801343Z  6508 INFO  receive - id 8019 sync 0 - april_protobuf_client.cpp:90
+20140519 13:14:08.558770Z  6506 INFO  client 1 - april.cpp:83
+20140519 13:14:08.559253Z  6509 INFO  receive - id 8019 sync 0 - april_protobuf_client.cpp:90
+20140519 13:14:10.164539Z  6506 INFO  client 0 - april.cpp:83
+20140519 13:14:10.164976Z  6508 INFO  receive - id 8019 sync 0 - april_protobuf_client.cpp:90

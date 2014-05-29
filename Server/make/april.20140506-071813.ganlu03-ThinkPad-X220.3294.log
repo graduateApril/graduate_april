@@ -1,0 +1,3 @@
+20140506 07:18:13.597152Z  3294 INFO  pid = 3294 - april.cpp:32
+20140506 07:21:55.753603Z  3294 INFO  TcpServer::newConnection [AprilServer] - new connection [AprilServer:0.0.0.0:2007#1] from 127.0.0.1:49651 - TcpServer.cc:84
+20140506 07:21:55.753669Z  3294 INFO  AprilServer - 127.0.0.1:49651 -> 127.0.0.1:2007 is UP - april_server.cpp:29

@@ -1,0 +1,24 @@
+20140519 13:14:51.490366Z  6542 INFO  pid = 6542 - april.cpp:52
+20140519 13:14:51.490616Z  6542 INFO  TcpClient::TcpClient[AprilClient] - connector 0x18BD950 - TcpClient.cc:71
+20140519 13:14:51.490632Z  6542 INFO  TcpClient::connect[AprilClient] - connecting to 0.0.0.0:2007 - TcpClient.cc:102
+20140519 13:14:51.490782Z  6544 INFO  127.0.0.1:58622 -> 127.0.0.1:2007 is  UP  - april_protobuf_client.cpp:54
+20140519 13:14:51.490900Z  6542 INFO  TcpClient::TcpClient[AprilClient] - connector 0x18BC4C0 - TcpClient.cc:71
+20140519 13:14:51.490908Z  6542 INFO  TcpClient::connect[AprilClient] - connecting to 0.0.0.0:2008 - TcpClient.cc:102
+20140519 13:14:51.491020Z  6545 WARN  Channel::handle_event() POLLHUP - Channel.cc:83
+20140519 13:14:51.491025Z  6545 ERROR Connector::handleError state=1 - Connector.cc:201
+20140519 13:14:51.491043Z  6545 INFO  Connector::retry - Retry connecting to 0.0.0.0:2008 in 500 milliseconds.  - Connector.cc:217
+20140519 13:14:51.991453Z  6545 WARN  Channel::handle_event() POLLHUP - Channel.cc:83
+20140519 13:14:51.991494Z  6545 ERROR Connector::handleError state=1 - Connector.cc:201
+20140519 13:14:51.991593Z  6545 INFO  Connector::retry - Retry connecting to 0.0.0.0:2008 in 1000 milliseconds.  - Connector.cc:217
+20140519 13:14:52.991926Z  6545 WARN  Channel::handle_event() POLLHUP - Channel.cc:83
+20140519 13:14:52.991960Z  6545 ERROR Connector::handleError state=1 - Connector.cc:201
+20140519 13:14:52.992043Z  6545 INFO  Connector::retry - Retry connecting to 0.0.0.0:2008 in 2000 milliseconds.  - Connector.cc:217
+20140519 13:14:54.992355Z  6545 WARN  Channel::handle_event() POLLHUP - Channel.cc:83
+20140519 13:14:54.992389Z  6545 ERROR Connector::handleError state=1 - Connector.cc:201
+20140519 13:14:54.992475Z  6545 INFO  Connector::retry - Retry connecting to 0.0.0.0:2008 in 4000 milliseconds.  - Connector.cc:217
+20140519 13:14:58.992804Z  6545 WARN  Channel::handle_event() POLLHUP - Channel.cc:83
+20140519 13:14:58.992838Z  6545 ERROR Connector::handleError state=1 - Connector.cc:201
+20140519 13:14:58.992920Z  6545 INFO  Connector::retry - Retry connecting to 0.0.0.0:2008 in 8000 milliseconds.  - Connector.cc:217
+20140519 13:15:06.993250Z  6545 WARN  Channel::handle_event() POLLHUP - Channel.cc:83
+20140519 13:15:06.993284Z  6545 ERROR Connector::handleError state=1 - Connector.cc:201
+20140519 13:15:06.993366Z  6545 INFO  Connector::retry - Retry connecting to 0.0.0.0:2008 in 16000 milliseconds.  - Connector.cc:217

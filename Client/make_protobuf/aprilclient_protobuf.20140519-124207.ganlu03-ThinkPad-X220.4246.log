@@ -1,0 +1,15 @@
+20140519 12:42:07.596791Z  4246 INFO  pid = 4246 - april.cpp:51
+20140519 12:42:07.597824Z  4246 INFO  TcpClient::TcpClient[AprilClient] - connector 0x1C53950 - TcpClient.cc:71
+20140519 12:42:07.597846Z  4246 INFO  TcpClient::connect[AprilClient] - connecting to 0.0.0.0:2007 - TcpClient.cc:102
+20140519 12:42:07.600388Z  4248 INFO  127.0.0.1:58503 -> 127.0.0.1:2007 is  UP  - april_protobuf_client.cpp:54
+20140519 12:42:07.602256Z  4246 INFO  TcpClient::TcpClient[AprilClient] - connector 0x1C524C0 - TcpClient.cc:71
+20140519 12:42:07.602278Z  4246 INFO  TcpClient::connect[AprilClient] - connecting to 0.0.0.0:2008 - TcpClient.cc:102
+20140519 12:42:07.602474Z  4249 INFO  127.0.0.1:35132 -> 127.0.0.1:2008 is  UP  - april_protobuf_client.cpp:54
+20140519 12:42:23.768709Z  4246 INFO  client 0 - april.cpp:78
+20140519 12:42:23.768772Z  4246 INFO  client 1 - april.cpp:78
+20140519 12:42:23.769347Z  4248 INFO  receive - id 19 sync 0 - april_protobuf_client.cpp:90
+20140519 12:42:23.769382Z  4249 INFO  receive - id 19 sync 0 - april_protobuf_client.cpp:90
+20140519 12:43:07.750861Z  4246 INFO  client 0 - april.cpp:78
+20140519 12:43:07.750923Z  4246 INFO  client 1 - april.cpp:78
+20140519 12:43:07.751224Z  4249 INFO  receive - id 30 sync 0 - april_protobuf_client.cpp:90
+20140519 12:43:07.751224Z  4248 INFO  receive - id 30 sync 0 - april_protobuf_client.cpp:90

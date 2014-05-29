@@ -1,0 +1,35 @@
+20140519 12:58:54.738356Z  5887 INFO  pid = 5887 - april.cpp:54
+20140519 12:58:54.742668Z  5887 INFO  TcpClient::TcpClient[AprilClient] - connector 0x21C5950 - TcpClient.cc:71
+20140519 12:58:54.742723Z  5887 INFO  TcpClient::connect[AprilClient] - connecting to 0.0.0.0:2007 - TcpClient.cc:102
+20140519 12:58:54.743386Z  5887 INFO  TcpClient::TcpClient[AprilClient] - connector 0x21C44C0 - TcpClient.cc:71
+20140519 12:58:54.743425Z  5887 INFO  TcpClient::connect[AprilClient] - connecting to 0.0.0.0:2008 - TcpClient.cc:102
+20140519 12:58:54.743463Z  5889 INFO  127.0.0.1:58556 -> 127.0.0.1:2007 is  UP  - april_protobuf_client.cpp:54
+20140519 12:58:54.743784Z  5890 INFO  127.0.0.1:35185 -> 127.0.0.1:2008 is  UP  - april_protobuf_client.cpp:54
+20140519 12:59:08.924146Z  5887 INFO  client 1 - april.cpp:85
+20140519 12:59:08.924761Z  5890 INFO  receive - id 81 sync 0 - april_protobuf_client.cpp:90
+20140519 12:59:16.827028Z  5887 INFO  client 0 - april.cpp:85
+20140519 12:59:16.827703Z  5889 INFO  receive - id 81 sync 0 - april_protobuf_client.cpp:90
+20140519 12:59:20.322608Z  5887 INFO  client 1 - april.cpp:85
+20140519 12:59:20.322979Z  5890 INFO  receive - id 1410065398 sync 0 - april_protobuf_client.cpp:90
+20140519 12:59:21.994135Z  5887 INFO  client 0 - april.cpp:85
+20140519 12:59:21.994563Z  5889 INFO  receive - id 1410065398 sync 0 - april_protobuf_client.cpp:90
+20140519 12:59:35.831633Z  5887 INFO  client 1 - april.cpp:85
+20140519 12:59:35.831969Z  5890 INFO  receive - id 1410065398 sync 0 - april_protobuf_client.cpp:90
+20140519 12:59:37.776073Z  5887 INFO  client 0 - april.cpp:85
+20140519 12:59:37.776454Z  5889 INFO  receive - id 1410065398 sync 0 - april_protobuf_client.cpp:90
+20140519 12:59:40.871314Z  5887 INFO  client 1 - april.cpp:85
+20140519 12:59:40.871648Z  5890 INFO  receive - id 81 sync 0 - april_protobuf_client.cpp:90
+20140519 12:59:44.054527Z  5887 INFO  client 0 - april.cpp:85
+20140519 12:59:44.054877Z  5889 INFO  receive - id 81 sync 0 - april_protobuf_client.cpp:90
+20140519 13:00:04.179185Z  5887 INFO  client 1 - april.cpp:85
+20140519 13:00:04.179516Z  5890 INFO  receive - id 81 sync 0 - april_protobuf_client.cpp:90
+20140519 13:00:08.362728Z  5887 INFO  client 0 - april.cpp:85
+20140519 13:00:08.363065Z  5889 INFO  receive - id 81 sync 1 - april_protobuf_client.cpp:90
+20140519 13:00:11.721497Z  5887 INFO  client 1 - april.cpp:85
+20140519 13:00:11.721850Z  5890 INFO  receive - id 81 sync 1 - april_protobuf_client.cpp:90
+20140519 13:00:16.525909Z  5887 INFO  client 0 - april.cpp:85
+20140519 13:00:16.526293Z  5889 INFO  receive - id 90 sync 0 - april_protobuf_client.cpp:90
+20140519 13:00:20.732182Z  5887 INFO  client 1 - april.cpp:85
+20140519 13:00:20.732516Z  5890 INFO  receive - id 1410065398 sync 1 - april_protobuf_client.cpp:90
+20140519 13:00:23.644041Z  5887 INFO  client 0 - april.cpp:85
+20140519 13:00:23.644431Z  5889 INFO  receive - id 90 sync 0 - april_protobuf_client.cpp:90
